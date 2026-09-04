@@ -16,13 +16,9 @@ background: linear-gradient(...), url("assets/hero-rink.jpeg") center/cover no-r
 }
 @media(max-width:760px){
   .hero .tagline{
-    font-size:18px;
+    font-size:20px;
     white-space:nowrap;
     max-width:none;
     width:max-content;
-  }
-}
-  }
-}
-  }
+      }
 }

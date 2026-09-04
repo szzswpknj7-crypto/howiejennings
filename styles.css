@@ -16,7 +16,7 @@ background: linear-gradient(...), url("assets/hero-rink.jpeg") center/cover no-r
 }
 @media(max-width:760px){
   .hero .tagline{
-    font-size:20px;
+    font-size:18px;
     white-space:nowrap;
     max-width:none;
     width:max-content;

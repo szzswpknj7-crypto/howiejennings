@@ -14,3 +14,9 @@ background: linear-gradient(...), url("assets/hero-rink.jpeg") center/cover no-r
 .actions .button{
   white-space:nowrap;
 }
+@media(max-width:760px){
+  .hero .tagline{
+    font-size:16px;
+    white-space:nowrap;
+  }
+}

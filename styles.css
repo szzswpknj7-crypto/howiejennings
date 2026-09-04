@@ -11,3 +11,6 @@ background: linear-gradient(...), url("assets/hero-rink.jpeg") center/cover no-r
   font-style: italic;
   font-weight: 400;
 }
+.actions .button{
+  white-space:nowrap;
+}
